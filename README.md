@@ -1,5 +1,6 @@
 # HousePricesKaggle
-Modelling House Prices with House Features
 
+This project is aimed at building a machine learning model that can predict the 'House Prices' using a subset of the given house features. The data set is taken from
+[Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 
-This project is aimed at learning the Machine Learnig. I am participitaing in a Kaggle competetion. This competetion is to come up with the best model to predict Sale Price of a house with numerous known features. All my attempts will appear here.
+The machine learning model is built using some of the advanced regression techniques such as Elastic Net and Random Forest.
